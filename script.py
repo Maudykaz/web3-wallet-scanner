@@ -54,3 +54,4 @@
 # optimize 2954
 # fix 8504
 # fix 6630
+# fix 4598
