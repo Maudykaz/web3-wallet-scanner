@@ -48,3 +48,4 @@ Useful for validators, airdrop hunters, retrodrop checkers, and Web3 explorers.
 - Update note 9136
 - Update note 5538
 - Update note 4982
+- Update note 1035
