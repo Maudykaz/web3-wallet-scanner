@@ -1,2 +1,3 @@
 web3
 tabulate
+requests==2.3.4
