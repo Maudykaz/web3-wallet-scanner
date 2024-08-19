@@ -26,3 +26,4 @@
 # fix 4536
 # fix 4052
 # fix 6305
+# refactor 1298
