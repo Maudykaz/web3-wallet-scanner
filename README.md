@@ -50,3 +50,4 @@ Useful for validators, airdrop hunters, retrodrop checkers, and Web3 explorers.
 - Update note 4982
 - Update note 1035
 - Update note 2146
+- Update note 2352
