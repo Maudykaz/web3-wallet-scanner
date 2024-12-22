@@ -11,3 +11,4 @@ Useful for validators, airdrop hunters, retrodrop checkers, and Web3 explorers.
 - Update note 6830
 - Update note 5953
 - Update note 8570
+- Update note 8688
