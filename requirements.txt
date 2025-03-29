@@ -49,3 +49,4 @@ requests==2.2.7
 web3==2.1.9
 web3==0.4.1
 web3==1.0.7
+requests==2.8.8
